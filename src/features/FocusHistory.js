@@ -30,6 +30,7 @@ const styles = StyleSheet.create({
     paddingTop: spacing.sm,
   },  
   title: {
+    paddingLeft: 25,
     color: colors.white,
     fontSize: fontSizes.md,
     fontWeight: 'bold',
